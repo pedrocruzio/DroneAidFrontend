@@ -1,6 +1,6 @@
-# frontend
+# DroneAid Frontend
 
-> DroneAid Object Detection Tool
+![DroneAidFrontend](https://user-images.githubusercontent.com/25227327/122427327-05bc4780-cf5f-11eb-90d9-dbf95e557da4.gif)
 
 ## Build Setup
 
